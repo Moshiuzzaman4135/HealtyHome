@@ -1,0 +1,6 @@
+D:\Healthy Home\HealthyHome\HealthyHome.Data\bin\Release\HealthyHome.Data.dll
+D:\Healthy Home\HealthyHome\HealthyHome.Data\bin\Release\HealthyHome.Data.pdb
+D:\Healthy Home\HealthyHome\HealthyHome.Data\obj\Release\HealthyHome.Data.csproj.CoreCompileInputs.cache
+D:\Healthy Home\HealthyHome\HealthyHome.Data\obj\Release\HealthyHome.Data.dll
+D:\Healthy Home\HealthyHome\HealthyHome.Data\obj\Release\HealthyHome.Data.pdb
+D:\Healthy Home\HealthyHome\HealthyHome.Data\obj\Release\HealthyHome.Data.csprojResolveAssemblyReference.cache

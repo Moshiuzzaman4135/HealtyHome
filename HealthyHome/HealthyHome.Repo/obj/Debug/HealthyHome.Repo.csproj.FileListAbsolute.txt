@@ -1,0 +1,10 @@
+D:\Healthy Home\HealthyHome\HealthyHome.Repo\obj\Debug\HealthyHome.Repo.csproj.CoreCompileInputs.cache
+D:\Healthy Home\HealthyHome\HealthyHome.Repo\bin\Debug\HealthyHome.Repo.dll
+D:\Healthy Home\HealthyHome\HealthyHome.Repo\bin\Debug\HealthyHome.Repo.pdb
+D:\Healthy Home\HealthyHome\HealthyHome.Repo\bin\Debug\HealthyHome.Data.dll
+D:\Healthy Home\HealthyHome\HealthyHome.Repo\bin\Debug\HealthyHome.Entity.dll
+D:\Healthy Home\HealthyHome\HealthyHome.Repo\bin\Debug\HealthyHome.Data.pdb
+D:\Healthy Home\HealthyHome\HealthyHome.Repo\bin\Debug\HealthyHome.Entity.pdb
+D:\Healthy Home\HealthyHome\HealthyHome.Repo\obj\Debug\HealthyHome.Repo.dll
+D:\Healthy Home\HealthyHome\HealthyHome.Repo\obj\Debug\HealthyHome.Repo.pdb
+D:\Healthy Home\HealthyHome\HealthyHome.Repo\obj\Debug\HealthyHome.Repo.csprojResolveAssemblyReference.cache

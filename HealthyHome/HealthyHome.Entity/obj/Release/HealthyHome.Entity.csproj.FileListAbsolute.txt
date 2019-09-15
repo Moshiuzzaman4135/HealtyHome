@@ -1,0 +1,5 @@
+D:\Healthy Home\HealthyHome\HealthyHome.Entity\bin\Release\HealthyHome.Entity.dll
+D:\Healthy Home\HealthyHome\HealthyHome.Entity\bin\Release\HealthyHome.Entity.pdb
+D:\Healthy Home\HealthyHome\HealthyHome.Entity\obj\Release\HealthyHome.Entity.csproj.CoreCompileInputs.cache
+D:\Healthy Home\HealthyHome\HealthyHome.Entity\obj\Release\HealthyHome.Entity.dll
+D:\Healthy Home\HealthyHome\HealthyHome.Entity\obj\Release\HealthyHome.Entity.pdb
